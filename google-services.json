@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "960314176886",
+    "firebase_url": "https://museumspotter.firebaseio.com",
+    "project_id": "museumspotter",
+    "storage_bucket": "museumspotter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960314176886:android:2a853bdc55066d71",
+        "android_client_info": {
+          "package_name": "com.museumspotter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960314176886-708d090am6vo50ko5scmgnfl9tsu2fok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.museumspotter",
+            "certificate_hash": "f3a262f7fe720a7aec06a4304f3b73f7fba1a020"
+          }
+        },
+        {
+          "client_id": "960314176886-lra5tf7jd1ho7g1vumcha98vp4sq9aul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyWo1l5hwjSMobuCQ2KJNp14AuvcoicjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960314176886-lra5tf7jd1ho7g1vumcha98vp4sq9aul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

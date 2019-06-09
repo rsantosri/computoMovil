@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MuseumSpotter</string>
+    <string name="title_activity_login">Inicia Sesión</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="calificacion">CALIFICACIÓN</string>
+    <string name="detalles">Detalles</string>
+    <string name="mapa">Mapa</string>
+    <string name="gratis">Gratis</string>
+    <string name="gratisEstudiantes">Gratis para estudiantes</string>
+    <string name="gratisDomingo">Gratis en domingo</string>
+    <string name="categorias">Categorias</string>
+    <string name="star">\u2605</string>
+</resources>
